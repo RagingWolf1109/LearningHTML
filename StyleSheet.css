@@ -7,9 +7,8 @@
    .col{
     width:25%;
     height:100px;
-    text-align:center;
+    text-align:left;
     padding:5px;
-     margin:2px;
-     border:1px solid gray;
-      display:inline-block;
+    margin:2px;
+    display:inline-block;
    }
